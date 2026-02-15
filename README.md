@@ -3,22 +3,6 @@ Teardown media of the Creative Midi Blaster MB-10 external synthesizer.
 
 This repository contains the photos and ROMS dumped from the MB-10
 
-## Videos
-
-### Full-length game MIDI music
-[![Creative MB-10 playing Descent General MIDI](https://i.ytimg.com/vi/rLhH8isgWjA/maxresdefault.jpg)](https://youtu.be/rLhH8isgWjA)
-Creative MB-10 playing Descent General MIDI (1:24:19)
-
-[![Creative MB-10 playing Doom General MIDI](https://i.ytimg.com/vi/COo2mdyXusU/maxresdefault.jpg)](https://youtu.be/COo2mdyXusU)
-Creative MB-10 playing Doom General MIDI (1:11:46)
-
-### Short comparison with Roland SC-55
-[![Creative MB-10 vs Roland SC-55: Descent game MIDI](https://i.ytimg.com/vi/Y8QVrFomBJk/maxresdefault.jpg)](https://youtu.be/Y8QVrFomBJk)
-Creative MB-10 vs Roland SC-55: Descent game MIDI (03:42)
-
-[![Creative MB-10 vs Roland SC-55: Doom game MIDI](https://i.ytimg.com/vi/Ux4N0CxTSXs/maxresdefault.jpg)](https://youtu.be/Ux4N0CxTSXs)
-Creative MB-10 vs Roland SC-55: Doom game MIDI (02:45)
-
 ## Photos
 
 ### External
@@ -68,6 +52,22 @@ Box left.
 <img src="photos\mb10-box-right.jpg" width="300">
 
 Box right.
+
+## Videos
+
+### Full-length game MIDI music
+[![Creative MB-10 playing Descent General MIDI](https://i.ytimg.com/vi/rLhH8isgWjA/maxresdefault.jpg)](https://youtu.be/rLhH8isgWjA)
+Creative MB-10 playing Descent General MIDI (1:24:19)
+
+[![Creative MB-10 playing Doom General MIDI](https://i.ytimg.com/vi/COo2mdyXusU/maxresdefault.jpg)](https://youtu.be/COo2mdyXusU)
+Creative MB-10 playing Doom General MIDI (1:11:46)
+
+### Short comparison with Roland SC-55
+[![Creative MB-10 vs Roland SC-55: Descent game MIDI](https://i.ytimg.com/vi/Y8QVrFomBJk/maxresdefault.jpg)](https://youtu.be/Y8QVrFomBJk)
+Creative MB-10 vs Roland SC-55: Descent game MIDI (03:42)
+
+[![Creative MB-10 vs Roland SC-55: Doom game MIDI](https://i.ytimg.com/vi/Ux4N0CxTSXs/maxresdefault.jpg)](https://youtu.be/Ux4N0CxTSXs)
+Creative MB-10 vs Roland SC-55: Doom game MIDI (02:45)
 
 ## ROMS
 
