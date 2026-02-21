@@ -103,3 +103,7 @@ python gen_pyramid_canary_mid.py 30 filler30.mid
 # 30 notes after the initial canary note with priority override
 python gen_pyramid_canary_mid.py 30 filler30.mid --priority-override
 ```
+
+
+
+Magazine source: https://www.wavetable.nl/files/articles/Personal%20Computer%20Magazine%20(Dutch)/Personal%20Computer%20Magazine%20Oktober%201993%20-%20Opgeblazen%20geluid.pdf
