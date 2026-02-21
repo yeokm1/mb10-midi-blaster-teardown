@@ -3,6 +3,8 @@ Teardown media of the Creative Midi Blaster MB-10 external synthesizer.
 
 This repository contains the photos and ROMS dumped from the MB-10. Also contains a max-notes Python project to generate MIDI files to test the maximum number of tones that can be played simultaneously.
 
+Companion blog post for this repo: https://yeokhengmeng.com/2026/02/review-and-teardown-creative-mb-10/
+
 ## Photos
 
 ### External
